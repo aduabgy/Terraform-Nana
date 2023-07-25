@@ -6,3 +6,7 @@
 *.tfstate.*
 
 # 
+terraform.tfvars
+
+# ssh key 
+server-key-pair
